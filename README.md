@@ -134,7 +134,7 @@ I love combining technology and creativity to build unique digital experiences.
 
 🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-McGilford%20Studio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mc-gilford.github.io/Paginas-Muestra/)
 
-📧 [![Email](https://img.shields.io/badge/Email-chucho970407%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chucho970407@gmail.com)chucho970407@gmail.com
+📧 [![Email](https://img.shields.io/badge/Email-chucho970407%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chucho970407@gmail.com)
 
 ---
 
