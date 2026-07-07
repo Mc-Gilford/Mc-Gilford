@@ -129,11 +129,12 @@ I love combining technology and creativity to build unique digital experiences.
 
 ## 📫 Let's Connect!
 
-💼 LinkedIn
 
-🌐 Portfolio
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Rodriguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-de-jesus-rodriguez-aparicio-software-engineer/)
 
-📧 chucho970407@gmail.com
+🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-McGilford%20Studio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mc-gilford.github.io/Paginas-Muestra/)
+
+📧 [![Email](https://img.shields.io/badge/Email-chucho970407%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chucho970407@gmail.com)chucho970407@gmail.com
 
 ---
 
